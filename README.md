@@ -7,3 +7,5 @@ A l'initial, la carte a cette apparence :
 Après le déplaecement du curseur :
 
 ![card1](https://github.com/IrouKaizen/Carte-anim-e-avec-css/assets/122926735/14443278-df32-4441-a73e-16b708119a94)
+
+#IrouKaizen
